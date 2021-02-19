@@ -1,0 +1,27 @@
+body {
+	background-color: #b6e6bd;
+	margin: 0;
+  }
+li
+      {
+	list-style-type: none;
+	margin: 0 10%;
+	font-size: 30px;
+  }
+a 
+      {
+	text-decoration: none;
+	color: rgb(51, 77, 77);
+  }
+nav 
+     {
+	width: 100vw;
+	background-color: #d7b1e9;
+  }
+ul   {
+	  margin: 0;
+	  padding: 0;
+	  display: flex
+	  
+  }
+  
